@@ -1,0 +1,6 @@
+INDEX VERSION 1.126+E:\android\eclipse workspaces\NewsHunt\.metadata\.plugins\org.eclipse.jdt.core
+1284074322.index
+515727290.index
+3348927837.index
+2204016877.index
+4025317082.index
